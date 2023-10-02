@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a PhD student at the STOR-i CDT at Lancaster University.
+
 <!--
 **kthowgate/kthowgate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
